@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
-# TestNG basic Concepts(Mylearnings)
+# TestNG basic Concepts
 
 1.Basic of TestNg class demo file added(BeforeMethod,Test,AfterMethod Clubbing)
   -TestNg always use this sequene to execute test case
